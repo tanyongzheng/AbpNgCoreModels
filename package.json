@@ -1,0 +1,13 @@
+{
+  "name": "tz-abp-dto-models",
+  "version": "4.1.2.1",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
+}
