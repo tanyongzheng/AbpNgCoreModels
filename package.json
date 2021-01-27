@@ -1,6 +1,6 @@
 {
-  "name": "tz-abp-dto-models",
-  "version": "4.1.2.1",
+  "name": "abp-dto-models",
+  "version": "4.1.2",
   "homepage": "",
   "repository": {
     "type": "git",
